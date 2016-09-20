@@ -123,7 +123,7 @@ functions.set(3, function(string, callback) {
 
 branches.set(1, function(result, callback) {
   chains.get(1)(result);
-  chains.get(2)(result));
+  chains.get(2)(result);
 });
 
 chains.set(1, function(value, callback) {
