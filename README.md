@@ -1,17 +1,5 @@
-### block-script
-
-```
-.
-├── src/
-├── parser/
-├── lib/
-│   ├── std/
-│   └── ui/
-├── custom/
-├── dist/
-├── build.js
-└── build.block.js
-```
+### block-script-compiler
+A compiler for a 3d, block-based programming language that generates js.
 
 #### build.block.js
 Simple DSL parser output. Readable json format. Serializes UI data so that projects can be rendered in the electron window.  Each json object represents a block.  Links view with logic.
