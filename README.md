@@ -1,4 +1,4 @@
-### block-script-compiler
+## block-script-compiler
 A compiler for a 3d, block-based programming language that generates js.
 
 #### build.block.js
