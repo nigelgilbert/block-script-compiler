@@ -32,7 +32,7 @@ module.exports = [
 
 #### build.js
 ```javascript
-const async = require("async");
+const async = require('async');
 const functions = new Map();
 
 functions.set(0, function(callback) {
@@ -95,7 +95,7 @@ module.exports = [
 
 #### build.js
 ```javascript
-const async = require("async");
+const async = require('async');
 
 const functions = new Map();
 const branches = new Map();
