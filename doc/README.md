@@ -22,7 +22,7 @@ module.exports = [
     input: [0]
   },
   {
-    id: 3,
+    id: 2,
     name: 'log',
     logic: 'lib/log.js',
     input: [1]
